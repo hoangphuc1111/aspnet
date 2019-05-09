@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLTApplication", "VLTApplication\VLTApplication.csproj", "{6B2CC1BD-C969-40BB-BEBE-404AAD2C4936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VLTApplication.Tests", "VLTApplication.Tests\VLTApplication.Tests.csproj", "{0086681E-5111-45CA-9F3F-7F403EDF969E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2CC1BD-C969-40BB-BEBE-404AAD2C4936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2CC1BD-C969-40BB-BEBE-404AAD2C4936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2CC1BD-C969-40BB-BEBE-404AAD2C4936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2CC1BD-C969-40BB-BEBE-404AAD2C4936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0086681E-5111-45CA-9F3F-7F403EDF969E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0086681E-5111-45CA-9F3F-7F403EDF969E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0086681E-5111-45CA-9F3F-7F403EDF969E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0086681E-5111-45CA-9F3F-7F403EDF969E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
